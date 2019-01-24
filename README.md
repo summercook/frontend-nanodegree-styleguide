@@ -1,3 +1,4 @@
+new text more new text. more new text
 frontend-nanodegree-styleguide
 ==============================
 
